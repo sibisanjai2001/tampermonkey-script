@@ -4,3 +4,7 @@ go the wesite    https://openuserjs.org/
 
 Install th java script file for the requirement 
 
+GreasyFork        is the most popular Tampermonkey script repository. It has over 100,000 scripts available for download.
+OpenUserJS          is another popular Tampermonkey script repository. It has over 50,000 scripts available for download.
+Userscripts.org       is a smaller Tampermonkey script repository, but it has a good selection of high-quality scripts.
+GitHub                  is also a good place to find Tampermonkey scripts. Many users host their scripts on GitHub repositories.
