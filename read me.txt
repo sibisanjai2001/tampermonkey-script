@@ -1,0 +1,6 @@
+Use tamper monkey extension in the represetory 
+
+go the wesite    https://openuserjs.org/
+
+Install th java script file for the requirement 
+
